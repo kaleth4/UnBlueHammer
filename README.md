@@ -94,8 +94,9 @@ El equipo de investigación **Howler Cell** en Cyderes arregló los errores en e
 ---
 ## 📢 Estado actual
 
-- **No hay CVE asignado**
+- **CVE asignado CVE-2026-33825**
 - **No hay parche disponible**
+- *CVSS	~7.8*
 - El código del exploit es público
 - El repositorio de GitHub ya tiene más de **100 forks y casi 300 estrellas**
 - Múltiples investigadores han arreglado los errores originales y confirmado que funciona
