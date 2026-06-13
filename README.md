@@ -1,5 +1,6 @@
 
 **Windows Defender Está Siendo Usado para Hackear Windows**
+<img width="956" height="630" alt="image" src="https://github.com/user-attachments/assets/86e3544e-9a71-40c6-9b83-4e3a1b8e4d07" />
 
 **Un exploit de tipo zero-day llamado *BlueHammer* explota el proceso de actualización de Defender para otorgar a los atacantes acceso completo *SYSTEM***
 
