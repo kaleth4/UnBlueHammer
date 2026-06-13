@@ -1,4 +1,4 @@
-```markdown
+
 # Explotación Avanzada de Condiciones de Carrera en Windows
 
 ---
