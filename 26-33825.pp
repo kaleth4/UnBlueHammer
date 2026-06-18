@@ -1,5 +1,5 @@
 // FunnyApp.cpp - BlueHammer PoC
-// CVE-2026-33825 - Defender LPE to SYSTEM
+// 26-33825 - Defender LPE to SYSTEM
 
 #include <windows.h>
 #include <iostream>
